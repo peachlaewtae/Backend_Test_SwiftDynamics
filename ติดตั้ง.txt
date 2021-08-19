@@ -1,0 +1,4 @@
+1. เปิด Folder Project รันคำสั่ง npm install ที่ terminal
+2. โจทย์ข้อ 1 ---> ข้อ 1.pdf
+3. 2_3/src/app.js   -- run ด้วย node app.js (โจทย์ ข้อ 2,3) API ดึงค่า localhost:3000/getData | METHOD : GET
+4. 4/src/app.js -- run ด้วย node app.js (โจทย์ ข้อ 4)
